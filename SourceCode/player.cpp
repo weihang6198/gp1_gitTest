@@ -128,6 +128,7 @@ void player_update()
 
         }
         break;
+        OutputDebugStringA("test for github");
     }
 }
 
